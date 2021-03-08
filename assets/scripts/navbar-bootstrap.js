@@ -20,7 +20,7 @@ export class Navbar extends LitElement {
 				<a class="nav-link" href="index.html"><span id="navlink1" property>Home</span></a>
 			  </li>
 			  <li class="nav-item">
-				<a class="nav-link" href="2.html"><span id="navlink2" property>About</span></a>
+				<a class="nav-link" href="/about/about-learning-yax.html"><span id="navlink2" property>About</span></a>
 			  </li>
 			  <li class="nav-item">
 				<a class="nav-link" href="3.html"><span id="navlink3" property>Services</span></a>
